@@ -3,34 +3,32 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "AWEEKJ"
+name:               "Eunji"
 
-twitter:
-  username:         "__modo_"
 #facebook:
 #  app_id:           1234
 #    publisher:      1234
 
 author:
-  name:             Hanju Jo
+  name:             Eunji Kim
   facebook:
-  twitter:          __modo_
-  github:           AWEEKJ
-  linkedin:         aweekj
+  twitter:          
+  github:           eunjik43
+  linkedin:         
   medium:
   tumblr:
-  email:            gkswn121@gmail.com
+  email:            eunjik43@gmail.com
 
 # Google-analytics
 google-analytics:
-  id:               "UA-82148706-1"
+  id:               ""
 
 # Disqus
 disqus:
-  id:                "aweekj"
+  id:                "eunjik43"
 
 # URL
-url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
+url:                "https://eunjik43.github.io" # the base hostname & protocol for your site
 #url:                "http://localhost:4000" # use this url when develop
 baseurl:            "" # the subpath of your site, e.g. /blog
 
